@@ -1,6 +1,5 @@
 from fastapi import FastAPI, Depends, HTTPException, Header
 import ollama
-import requests
 from dotenv import load_dotenv
 import os
 
